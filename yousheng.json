@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1671">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    span.s2 {font: 12.0px 'PingFang SC'; font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"albumIds":[{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumId":"3048185",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumName":"</span><span class="s2">每天听本书</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumDesc":"</span><span class="s2">每天听本书，畅听千本好书</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"imageUrl":"http://fdfs.xmcdn.com/group12/M09/DF/6D/wKgDXFaOQMiSbZvsAAEABdCdw8w828.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpUrl":"",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpPassword":"",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpWord":"",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumId":"265897",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumName":"</span><span class="s2">十点读书</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumDesc":"</span><span class="s2">深夜十点，抚慰疲惫的心灵</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"imageUrl":"http://fdfs.xmcdn.com/group14/M03/06/9F/wKgDY1bFaify4osAAADtk9VhGbs279.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpUrl":"",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpPassword":"",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpWord":"",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumId":"11251978&amp;",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumName":"</span><span class="s2">精选读书荟</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumDesc":"</span><span class="s2">每天欣赏一篇美文</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"imageUrl":"http://fdfs.xmcdn.com/group32/M0A/E8/C2/wKgJUFn8cjzj0WVMAABoUvBF4RE132_large_pop.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpUrl":"https://image.ibb.co/juKXM5/qrcode_for_gh_078318fde269_344.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpPassword":"012345",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpWord":"</span><span class="s2">测试</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumId":"11764088",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumName":"</span><span class="s2">四书五经</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumDesc":"</span><span class="s2">四书五经解读</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"imageUrl":"http://fdfs.xmcdn.com/group35/M02/5B/4B/wKgJnVoakXTiJtxfAACa1_9Yc1c922_large_pop.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpUrl":"https://wmpics.pics/di-7QSW.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpPassword":"123450",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpWord":"</span><span class="s2">测试</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumId":"265738",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumName":"</span><span class="s2">深夜读书</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumDesc":"</span><span class="s2">人文精选</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"imageUrl":"http://fdfs.xmcdn.com/group23/M05/B3/98/wKgJNFiwH8nQ5IaxAAZXbphysqg545_large_pop.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpUrl":"https://wmpics.pics/di-7QSW.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpPassword":"123450",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpWord":"</span><span class="s2">测试</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumId":"220563",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumName":"</span><span class="s2">史记</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"albumDesc":"</span><span class="s2">史记解读</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"imageUrl":"http://fdfs.xmcdn.com/group9/M06/E1/DA/wKgDZlaRkUGjCSn6AAPY_L4GiAw053_large_pop.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpUrl":"https://wmpics.pics/di-7QSW.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpPassword":"123450",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"mpWord":"</span><span class="s2">测试</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>}],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"switch":"NO",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"iapSwitch":"YES",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"appIds":[{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"appName":"</span><span class="s2">夜听</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"appImageUrl":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"appUrl":"https://itunes.apple.com/cn/app/id876336838?mt=8",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"desc":"</span><span class="s2">最好玩的</span><span class="s1">app",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>}],</span></p>
+<p class="p1"><span class="s1">}</span></p>
+</body>
+</html>
