@@ -1,64 +1,915 @@
 {
-	"albumIds":[{
-			"albumId":"3048185",
-			"albumName":"每天听本书",
-			"albumDesc":"每天听本书，畅听千本好书",
-			"imageUrl":"http://fdfs.xmcdn.com/group12/M09/DF/6D/wKgDXFaOQMiSbZvsAAEABdCdw8w828.jpg",
-			"mpUrl":"",
-			"mpPassword":"",
-			"mpWord":"",
-			},
-			{
-			"albumId":"265897",
-			"albumName":"十点读书",
-			"albumDesc":"深夜十点，抚慰疲惫的心灵",
-			"imageUrl":"http://fdfs.xmcdn.com/group14/M03/06/9F/wKgDY1bFaify4osAAADtk9VhGbs279.jpg",
-			"mpUrl":"",
-			"mpPassword":"",
-			"mpWord":"",
-			},
-			{
-			"albumId":"11251978&",
-			"albumName":"精选读书荟",
-			"albumDesc":"每天欣赏一篇美文",
-			"imageUrl":"http://fdfs.xmcdn.com/group32/M0A/E8/C2/wKgJUFn8cjzj0WVMAABoUvBF4RE132_large_pop.jpg",
-			"mpUrl":"https://image.ibb.co/juKXM5/qrcode_for_gh_078318fde269_344.jpg",
-			"mpPassword":"012345",
-			"mpWord":"测试",
-			},
-			{
-			"albumId":"11764088",
-			"albumName":"四书五经",
-			"albumDesc":"四书五经解读",
-			"imageUrl":"http://fdfs.xmcdn.com/group35/M02/5B/4B/wKgJnVoakXTiJtxfAACa1_9Yc1c922_large_pop.jpg",
-			"mpUrl":"https://wmpics.pics/di-7QSW.jpg",
-			"mpPassword":"123450",
-			"mpWord":"测试",
-			},
-			{
-			"albumId":"265738",
-			"albumName":"深夜读书",
-			"albumDesc":"人文精选",
-			"imageUrl":"http://fdfs.xmcdn.com/group23/M05/B3/98/wKgJNFiwH8nQ5IaxAAZXbphysqg545_large_pop.jpg",
-			"mpUrl":"https://wmpics.pics/di-7QSW.jpg",
-			"mpPassword":"123450",
-			"mpWord":"测试",
-			},
-			{
-			"albumId":"220563",
-			"albumName":"史记",
-			"albumDesc":"史记解读",
-			"imageUrl":"http://fdfs.xmcdn.com/group9/M06/E1/DA/wKgDZlaRkUGjCSn6AAPY_L4GiAw053_large_pop.jpg",
-			"mpUrl":"https://wmpics.pics/di-7QSW.jpg",
-			"mpPassword":"123450",
-			"mpWord":"测试",
-			}],
-	"switch":"NO",
-	"iapSwitch":"YES",
-	"appIds":[{
-			"appName":"夜听",
-			"appImageUrl":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",
-			"appUrl":"https://itunes.apple.com/cn/app/id876336838?mt=8",
-			"desc":"最好玩的app",
-			}],
+    categoryContents =     {
+        list =         (
+                        {
+                hasMore = 0;
+                list =                 (
+                                        {
+                        calcPeriod = "月榜";
+                        categoryId = 3;
+                        contentType = album;
+                        coverPath = "http://fdfs.xmcdn.com/group36/M02/2A/F0/wKgJTVpCPK-QO_sWAAB0q5Gc0vg497.jpg";
+                        isAllPaid = 0;
+                        key = "2_3_ranking:album:playedEndUsers:30:3";
+                        list =                         (
+                        );
+                        maxPageId = 0;
+                        pageId = 0;
+                        pageSize = 1;
+                        period = 30;
+                        rankingListId = 69;
+                        rankingRule = playedEndUsers;
+                        ret = 0;
+                        subtitle = "每天最火的50本书";
+                        title = "热门排行榜";
+                        top = 100;
+                        totalCount = 0;
+                    }
+                );
+                moduleType = 2;
+                title = "热门排行榜";
+            },
+                        {
+                calcDimension = hot;
+                contentType = album;
+                hasMore = 1;
+                list =                 (
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group48/M03/55/21/wKgKlVtej6DBRwMEAAGzYOmuyu8538.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 16679724;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group48/M03/55/21/wKgKlVtej6DBRwMEAAGzYOmuyu8538.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group48/M03/55/21/wKgKlVtej6DBRwMEAAGzYOmuyu8538.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group48/M03/55/21/wKgKlVtej6DBRwMEAAGzYOmuyu8538.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 16679724;
+                        intro = "写给回不去的故乡与消失的时光，余秋雨、张炜、洪晃等联合推荐。";
+                        isDraft = 0;
+                        isFinished = 2;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "听书铺";
+                        playsCounts = 857157;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 2;
+                        tags = "博集新媒,文学,思乡";
+                        title = "日子疯长（汪涵、王丽坤倾声领读）";
+                        trackId = 102502768;
+                        trackTitle = "汪涵 王丽坤领读，《声临其境》专家组成员周扬倾声演绎！ 出版人龚曙光首部慢忆时光散文集，讲述连筋连骨、动情动心的真实人生故事，以湖湘原始野性而生命力旺烈的文字，描绘出于岁月错落中的故乡温情和五彩斑斓";
+                        tracks = 40;
+                        uid = 15606534;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group10/M08/A8/D2/wKgDZ1ZbqHDSOPTHAAGHfUy6arQ546.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 2903266;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group10/M08/A8/D2/wKgDZ1ZbqHDSOPTHAAGHfUy6arQ546.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group10/M08/A8/D2/wKgDZ1ZbqHDSOPTHAAGHfUy6arQ546.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group10/M08/A8/D2/wKgDZ1ZbqHDSOPTHAAGHfUy6arQ546.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 2903266;
+                        intro = "【通知】应版权方要求将于10月30日转为付费专辑，赶快下载收听吧~";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "羊闲声";
+                        playsCounts = 49154798;
+                        priceTypeId = 0;
+                        provider = man;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "穿越,历史,架空";
+                        title = "医统江山";
+                        trackId = 8554827;
+                        trackTitle = "【通知】应版权方要求将于10月30日转为付费专辑，赶快下载收听吧~";
+                        tracks = 890;
+                        uid = 9207739;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group45/M01/69/C7/wKgKjlt33Qnxr6MsAAVtBBPOjXs962.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 16917799;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group45/M01/69/C7/wKgKjlt33Qnxr6MsAAVtBBPOjXs962.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group45/M01/69/C7/wKgKjlt33Qnxr6MsAAVtBBPOjXs962.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group45/M01/69/C7/wKgKjlt33Qnxr6MsAAVtBBPOjXs962.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 16917799;
+                        intro = "独宠 甜文 搞笑幽默";
+                        isDraft = 0;
+                        isFinished = 0;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "璇儿是宝妈";
+                        playsCounts = 24998548;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 0;
+                        tags = "";
+                        title = "萌妻甜蜜蜜：总裁爱不释手";
+                        trackId = 106366900;
+                        trackTitle = "夏千寻的人生理想是白天女强人，晚上玩老公。　　只可惜，她被一个大人物抢婚了，...";
+                        tracks = 215;
+                        uid = 98966642;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group45/M06/34/CA/wKgKjluaJ5qSM0hmAAZZP1fIHoc973.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 18349720;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group45/M06/34/CA/wKgKjluaJ5qSM0hmAAZZP1fIHoc973.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group45/M06/34/CA/wKgKjluaJ5qSM0hmAAZZP1fIHoc973.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group45/M06/34/CA/wKgKjluaJ5qSM0hmAAZZP1fIHoc973.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 18349720;
+                        intro = "拜入道门，斗法诛邪，铸就道门传奇！";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "有声的紫襟";
+                        playsCounts = 15240189;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "";
+                        title = "行走阴阳：道士传奇（紫襟故事）";
+                        trackId = 123646974;
+                        trackTitle = "【故事简介】 《行走阴阳》讲述主角拜入道门玄真派，学习道法，利用所学道术，斩妖除魔，伸张正义的故事，故事里的主角们一身正气，并且他们之间的兄弟情义感人肺腑，是正能量爆棚的一部作品。 奶奶为了";
+                        tracks = 62;
+                        uid = 1266964;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 12642314;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 12642314;
+                        intro = "连环杀，吸血症等诡异案件大解密";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "有声的紫襟";
+                        playsCounts = 331093089;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "悬疑,恐怖,有声小说";
+                        title = "《阴间神探》紫襟故事";
+                        trackId = 68379493;
+                        trackTitle = "连环杀，吸血症等诡异案件大解密";
+                        tracks = 307;
+                        uid = 1266964;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group40/M0A/5E/D5/wKgJT1rdmnbxtVmFAAfgnP1KHT4799.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 2808630;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group40/M0A/5E/D5/wKgJT1rdmnbxtVmFAAfgnP1KHT4799.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group40/M0A/5E/D5/wKgJT1rdmnbxtVmFAAfgnP1KHT4799.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group40/M0A/5E/D5/wKgJT1rdmnbxtVmFAAfgnP1KHT4799.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 2808630;
+                        intro = "江湖龙蛇混杂，什么伎俩才能扭转乾坤";
+                        isDraft = 0;
+                        isFinished = 0;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "轩林有声小说";
+                        playsCounts = 28458480;
+                        priceTypeId = 0;
+                        provider = man;
+                        refundSupportType = 0;
+                        serialState = 0;
+                        tags = "风水,悬疑,鬼故事";
+                        title = "地师（风水地气宗师）";
+                        trackId = 8268938;
+                        trackTitle = "江湖龙蛇混杂，什么伎俩才能扭转乾坤";
+                        tracks = 396;
+                        uid = 3322976;
+                    }
+                );
+                moduleType = 3;
+                tagName = "";
+                title = "小编推荐";
+            },
+                        {
+                calcDimension = hot;
+                contentType = album;
+                hasMore = 1;
+                keywordId = 346;
+                keywordName = "女生最爱";
+                list =                 (
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group39/M07/3E/3A/wKgJn1p4ksCzT3nBAAGFpoem_H8419.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 13007983;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group39/M07/3E/3A/wKgJn1p4ksCzT3nBAAGFpoem_H8419.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group39/M07/3E/3A/wKgJn1p4ksCzT3nBAAGFpoem_H8419.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group39/M07/3E/3A/wKgJn1p4ksCzT3nBAAGFpoem_H8419.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 13007983;
+                        intro = "第0001章";
+                        isDraft = 0;
+                        isFinished = 0;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "A啊勇";
+                        playsCounts = 31260043;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 0;
+                        tags = "";
+                        title = "透视神医";
+                        trackId = 70342026;
+                        trackTitle = "by A阿勇 林天净著 一次偶然，让李勇不仅拥有透视能力 更拥有八十个医生的毕生经验...";
+                        tracks = 870;
+                        uid = 74512578;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group8/M03/65/BD/wKgDYVXebhqhxxyYAAOann6phIg624.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 2866405;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group8/M03/65/BD/wKgDYVXebhqhxxyYAAOann6phIg624.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group8/M03/65/BD/wKgDYVXebhqhxxyYAAOann6phIg624.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group8/M03/65/BD/wKgDYVXebhqhxxyYAAOann6phIg624.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 2866405;
+                        intro = "青春虐恋，守护和毁灭的故事";
+                        isDraft = 0;
+                        isFinished = 2;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "荆棘鸟安桃";
+                        playsCounts = 5489106;
+                        priceTypeId = 0;
+                        provider = man;
+                        refundSupportType = 0;
+                        serialState = 2;
+                        tags = "畅销书,言情,青春";
+                        title = "夏有乔木雅望天堂【官方版】";
+                        trackId = 17213665;
+                        trackTitle = "青春虐恋，守护和毁灭的故事";
+                        tracks = 88;
+                        uid = 21900198;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group11/M05/70/91/wKgDbVcy5mzwjonVAAJlx019AMg107.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 4176595;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group11/M05/70/91/wKgDbVcy5mzwjonVAAJlx019AMg107.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group11/M05/70/91/wKgDbVcy5mzwjonVAAJlx019AMg107.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group11/M05/70/91/wKgDbVcy5mzwjonVAAJlx019AMg107.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 4176595;
+                        intro = "复仇|冒牌萝莉诸侯王VS正牌皇子";
+                        isDraft = 0;
+                        isFinished = 2;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "小夜光";
+                        playsCounts = 7014588;
+                        priceTypeId = 0;
+                        provider = man;
+                        refundSupportType = 0;
+                        serialState = 2;
+                        tags = "浪漫言情,穿越架空,武侠仙侠";
+                        title = "孤王甚慰（多人剧）";
+                        trackId = 19351740;
+                        trackTitle = "复仇|冒牌萝莉诸侯王VS正牌皇子";
+                        tracks = 71;
+                        uid = 1341740;
+                    }
+                );
+                moduleType = 5;
+                tagName = "女生最爱";
+                title = "女生最爱";
+            },
+                        {
+                calcDimension = hot;
+                contentType = album;
+                hasMore = 1;
+                keywordId = 348;
+                keywordName = "男生最爱";
+                list =                 (
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group28/M0A/69/EE/wKgJSFlsKwiQGzwxAASIZK0o4QQ903.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 2897626;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group28/M0A/69/EE/wKgJSFlsKwiQGzwxAASIZK0o4QQ903.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group28/M0A/69/EE/wKgJSFlsKwiQGzwxAASIZK0o4QQ903.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group28/M0A/69/EE/wKgJSFlsKwiQGzwxAASIZK0o4QQ903.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 2897626;
+                        intro = "游戏顶尖高手重返巅峰之路";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "八音六合丶刺儿";
+                        playsCounts = 451167463;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "畅销书,网游,刺儿";
+                        title = "全职高手";
+                        trackId = 8434568;
+                        trackTitle = "游戏顶尖高手重返巅峰之路";
+                        tracks = 1516;
+                        uid = 1511013;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group14/M07/68/01/wKgDY1XkHiKCWZ1qAAW5J6OffoA829.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 2879299;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group14/M07/68/01/wKgDY1XkHiKCWZ1qAAW5J6OffoA829.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group14/M07/68/01/wKgDY1XkHiKCWZ1qAAW5J6OffoA829.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group14/M07/68/01/wKgDY1XkHiKCWZ1qAAW5J6OffoA829.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 2879299;
+                        intro = "废柴少年力经磨练成仙宗";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "胡三有声小说";
+                        playsCounts = 18920816;
+                        priceTypeId = 0;
+                        provider = man;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "玄幻,畅销书,奇幻";
+                        title = "百炼成仙(喜马拉雅出品)";
+                        trackId = 20778201;
+                        trackTitle = "废柴少年力经磨练成仙宗";
+                        tracks = 1073;
+                        uid = 21783389;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group12/M09/82/D9/wKgDXFYcaT_S7BQsAAGs7XUv2No067.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 3058990;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group12/M09/82/D9/wKgDXFYcaT_S7BQsAAGs7XUv2No067.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group12/M09/82/D9/wKgDXFYcaT_S7BQsAAGs7XUv2No067.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group12/M09/82/D9/wKgDXFYcaT_S7BQsAAGs7XUv2No067.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 3058990;
+                        intro = "惊艳千万粉丝的第一明星文";
+                        isDraft = 0;
+                        isFinished = 2;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "八音六合丶云天河";
+                        playsCounts = 3905509;
+                        priceTypeId = 0;
+                        provider = man;
+                        refundSupportType = 0;
+                        serialState = 2;
+                        tags = "言情,畅销书";
+                        title = "重生之名流巨星";
+                        trackId = 9267041;
+                        trackTitle = "惊艳千万粉丝的第一明星文";
+                        tracks = 42;
+                        uid = 8163465;
+                    }
+                );
+                moduleType = 5;
+                tagName = "男生最爱";
+                title = "男生最爱";
+            },
+                        {
+                hasMore = 1;
+                list =                 (
+                );
+                moduleType = 4;
+                title = "精品书单";
+            },
+                        {
+                calcDimension = hot;
+                contentType = album;
+                hasMore = 1;
+                keywordId = 634;
+                keywordName = "历史小说";
+                list =                 (
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group20/M03/E2/EC/wKgJJ1fOJO3jH0VwAAI0dJM0ztI964.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 3416829;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group20/M03/E2/EC/wKgJJ1fOJO3jH0VwAAI0dJM0ztI964.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group20/M03/E2/EC/wKgJJ1fOJO3jH0VwAAI0dJM0ztI964.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group20/M03/E2/EC/wKgJJ1fOJO3jH0VwAAI0dJM0ztI964.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 3416829;
+                        intro = "【通知】应版权方要求将于10月30日转为付费专辑，赶快下载收听吧~";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "雅居_一笑倾城";
+                        playsCounts = 228951530;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "历史,军事,穿越";
+                        title = "赘婿（精品多人有声剧）";
+                        trackId = 101763444;
+                        trackTitle = "【通知】应版权方要求将于10月30日转为付费专辑，赶快下载收听吧~";
+                        tracks = 765;
+                        uid = 12648317;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group47/M01/FF/D1/wKgKm1tOkNaxRMI9AAGTAytbYjk229.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 11596480;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group47/M01/FF/D1/wKgKm1tOkNaxRMI9AAGTAytbYjk229.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group47/M01/FF/D1/wKgKm1tOkNaxRMI9AAGTAytbYjk229.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group47/M01/FF/D1/wKgKm1tOkNaxRMI9AAGTAytbYjk229.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 11596480;
+                        intro = "穿越少年靠智慧化险为夷，爆笑不断";
+                        isDraft = 0;
+                        isFinished = 0;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "幻樱空";
+                        playsCounts = 153990828;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 0;
+                        tags = "";
+                        title = "明朝伪君子（爆笑）";
+                        trackId = 0;
+                        trackTitle = "穿越少年靠智慧化险为夷，爆笑不断";
+                        tracks = 803;
+                        uid = 20606950;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group15/M00/74/FA/wKgDZVX_s3XTsdWVAAEq0yqrydk813.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 2910554;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group15/M00/74/FA/wKgDZVX_s3XTsdWVAAEq0yqrydk813.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group15/M00/74/FA/wKgDZVX_s3XTsdWVAAEq0yqrydk813.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group15/M00/74/FA/wKgDZVX_s3XTsdWVAAEq0yqrydk813.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 2910554;
+                        intro = "亿万网友疯狂追捧的军事历史小说";
+                        isDraft = 0;
+                        isFinished = 2;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "尖儿的有声小说";
+                        playsCounts = 248685683;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 2;
+                        tags = "畅销书,穿越,官场商战";
+                        title = "唐砖";
+                        trackId = 20738890;
+                        trackTitle = "亿万网友疯狂追捧的军事历史小说";
+                        tracks = 924;
+                        uid = 25256063;
+                    }
+                );
+                moduleType = 5;
+                tagName = "历史小说";
+                title = "历史风云";
+            },
+                        {
+                calcDimension = hot;
+                contentType = album;
+                hasMore = 1;
+                keywordId = 633;
+                keywordName = "武侠修真";
+                list =                 (
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group10/M07/49/BC/wKgDZ1cZ86miUeruAAHjYYvrKZk155.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 4137349;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group10/M07/49/BC/wKgDZ1cZ86miUeruAAHjYYvrKZk155.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group10/M07/49/BC/wKgDZ1cZ86miUeruAAHjYYvrKZk155.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group10/M07/49/BC/wKgDZ1cZ86miUeruAAHjYYvrKZk155.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 4137349;
+                        intro = "秀才得指点功法逆天终成传奇逍遥派";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "NewRadio昊翔";
+                        playsCounts = 617778829;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "武侠,武林,江湖";
+                        title = "逍遥派";
+                        trackId = 14907670;
+                        trackTitle = "秀才得指点功法逆天终成传奇逍遥派";
+                        tracks = 1433;
+                        uid = 4742669;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group48/M01/E0/DF/wKgKlVuP0JSyfqx3AAK2IZrHGWU170.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 14315556;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group48/M01/E0/DF/wKgKlVuP0JSyfqx3AAK2IZrHGWU170.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group48/M01/E0/DF/wKgKlVuP0JSyfqx3AAK2IZrHGWU170.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group48/M01/E0/DF/wKgKlVuP0JSyfqx3AAK2IZrHGWU170.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 14315556;
+                        intro = "系统穿越 | 腹黑商人套路坑人";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "君弑邪";
+                        playsCounts = 17225853;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "";
+                        title = "异界奸商传奇（爆笑来袭）";
+                        trackId = 77388243;
+                        trackTitle = "系统穿越 | 腹黑商人套路坑人";
+                        tracks = 590;
+                        uid = 60338482;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group30/M06/29/FD/wKgJXlmApqnhaMzaAAZ_qKfHUMk442.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 9724463;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group30/M06/29/FD/wKgJXlmApqnhaMzaAAZ_qKfHUMk442.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group30/M06/29/FD/wKgJXlmApqnhaMzaAAZ_qKfHUMk442.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group30/M06/29/FD/wKgJXlmApqnhaMzaAAZ_qKfHUMk442.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 9724463;
+                        intro = "长篇仙侠玄幻小说重燃热血传奇";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "大斌";
+                        playsCounts = 158939776;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "烽火戏诸侯,玄幻,仙侠";
+                        title = "《剑来》上部·玄幻仙侠第一神书大斌演播";
+                        trackId = 45879889;
+                        trackTitle = "长篇仙侠玄幻小说重燃热血传奇";
+                        tracks = 885;
+                        uid = 2342717;
+                    }
+                );
+                moduleType = 5;
+                tagName = "武侠修真";
+                title = "侠骨柔情";
+            },
+                        {
+                calcDimension = hot;
+                contentType = album;
+                hasMore = 1;
+                keywordId = 635;
+                keywordName = "商战官场";
+                list =                 (
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group11/M0A/CB/C0/wKgDa1aDNfbCQ0F-AAQuYGPWMgM050.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 3071659;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group11/M0A/CB/C0/wKgDa1aDNfbCQ0F-AAQuYGPWMgM050.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group11/M0A/CB/C0/wKgDa1aDNfbCQ0F-AAQuYGPWMgM050.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group11/M0A/CB/C0/wKgDa1aDNfbCQ0F-AAQuYGPWMgM050.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 3071659;
+                        intro = "身怀祖传绝技，兼修中西医救死扶伤";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "阿陈书场";
+                        playsCounts = 1081931906;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "畅销书,官场商战,中医";
+                        title = "首席医官";
+                        trackId = 8426245;
+                        trackTitle = "身怀祖传绝技，兼修中西医救死扶伤";
+                        tracks = 624;
+                        uid = 1800244;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group8/M05/C8/8D/wKgDYVZqgCKRiQk1AAdB3O60pYc894.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 3071669;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group8/M05/C8/8D/wKgDYVZqgCKRiQk1AAdB3O60pYc894.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group8/M05/C8/8D/wKgDYVZqgCKRiQk1AAdB3O60pYc894.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group8/M05/C8/8D/wKgDYVZqgCKRiQk1AAdB3O60pYc894.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 3071669;
+                        intro = "走进公务员世界，剥开官场现状";
+                        isDraft = 0;
+                        isFinished = 2;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "阿陈书场";
+                        playsCounts = 602060539;
+                        priceTypeId = 0;
+                        provider = man;
+                        refundSupportType = 0;
+                        serialState = 2;
+                        tags = "畅销书,官场商战,侯卫东";
+                        title = "侯卫东官场笔记";
+                        trackId = 1155622;
+                        trackTitle = "走进公务员世界，剥开官场现状";
+                        tracks = 720;
+                        uid = 1800244;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group46/M01/DB/1D/wKgKlltBvuzA96mkAAELimKIAts383.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 12198585;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group46/M01/DB/1D/wKgKlltBvuzA96mkAAELimKIAts383.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group46/M01/DB/1D/wKgKlltBvuzA96mkAAELimKIAts383.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group46/M01/DB/1D/wKgKlltBvuzA96mkAAELimKIAts383.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 12198585;
+                        intro = "草根玩转官场的百科全书";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "大刚司令";
+                        playsCounts = 26860335;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "";
+                        title = "扶摇直上（大刚司令）";
+                        trackId = 64844065;
+                        trackTitle = "草根玩转官场的百科全书";
+                        tracks = 798;
+                        uid = 98229511;
+                    }
+                );
+                moduleType = 5;
+                tagName = "商战官场";
+                title = "宦海沉浮";
+            },
+                        {
+                calcDimension = hot;
+                contentType = album;
+                hasMore = 1;
+                keywordId = 351;
+                keywordName = "大咖说书";
+                list =                 (
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group45/M06/34/CA/wKgKjluaJ5qSM0hmAAZZP1fIHoc973.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 18349720;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group45/M06/34/CA/wKgKjluaJ5qSM0hmAAZZP1fIHoc973.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group45/M06/34/CA/wKgKjluaJ5qSM0hmAAZZP1fIHoc973.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group45/M06/34/CA/wKgKjluaJ5qSM0hmAAZZP1fIHoc973.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 18349720;
+                        intro = "拜入道门，斗法诛邪，铸就道门传奇！";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "有声的紫襟";
+                        playsCounts = 15240189;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "";
+                        title = "行走阴阳：道士传奇（紫襟故事）";
+                        trackId = 123646974;
+                        trackTitle = "【故事简介】 《行走阴阳》讲述主角拜入道门玄真派，学习道法，利用所学道术，斩妖除魔，伸张正义的故事，故事里的主角们一身正气，并且他们之间的兄弟情义感人肺腑，是正能量爆棚的一部作品。 奶奶为了";
+                        tracks = 62;
+                        uid = 1266964;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 12642314;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 12642314;
+                        intro = "连环杀，吸血症等诡异案件大解密";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "有声的紫襟";
+                        playsCounts = 331093089;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "悬疑,恐怖,有声小说";
+                        title = "《阴间神探》紫襟故事";
+                        trackId = 68379493;
+                        trackTitle = "连环杀，吸血症等诡异案件大解密";
+                        tracks = 307;
+                        uid = 1266964;
+                    },
+                                        {
+                        albumCoverUrl290 = "http://imagev2.xmcdn.com/group44/M08/01/08/wKgKkVrv0wbxiC3DAAIaa5E8Thc342.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        albumId = 15337303;
+                        commentsCount = 0;
+                        coverLarge = "http://imagev2.xmcdn.com/group44/M08/01/08/wKgKkVrv0wbxiC3DAAIaa5E8Thc342.jpg!op_type=5&upload_type=album&device_type=ios&name=large";
+                        coverMiddle = "http://imagev2.xmcdn.com/group44/M08/01/08/wKgKkVrv0wbxiC3DAAIaa5E8Thc342.jpg!op_type=5&upload_type=album&device_type=ios&name=medium";
+                        coverSmall = "http://imagev2.xmcdn.com/group44/M08/01/08/wKgKkVrv0wbxiC3DAAIaa5E8Thc342.jpg!op_type=5&upload_type=album&device_type=ios&name=small";
+                        id = 15337303;
+                        intro = "鬼故事|据说直播只有三种人能看到";
+                        isDraft = 0;
+                        isFinished = 1;
+                        isPaid = 0;
+                        isVipFree = 0;
+                        nickname = "有声的紫襟";
+                        playsCounts = 60022280;
+                        priceTypeId = 0;
+                        provider = search;
+                        refundSupportType = 0;
+                        serialState = 1;
+                        tags = "悬疑,有声的紫襟,陶渊明后人";
+                        title = "超级惊悚直播（3D音效）紫襟故事";
+                        trackId = 87184286;
+                        trackTitle = "鬼故事|据说直播只有三种人能看到";
+                        tracks = 192;
+                        uid = 1266964;
+                    }
+                );
+                moduleType = 5;
+                tagName = "大咖说书";
+                title = "大咖说书";
+            }
+        );
+        ret = 0;
+        title = "推荐内容";
+    };
+    focusImages =     {
+        list =         (
+                        {
+                albumId = 8677450;
+                focusCurrentId = 86342;
+                id = 18250;
+                isShare = 1;
+                "is_External_url" = 0;
+                longTitle = "［首页付费］白鹿原";
+                pic = "http://fdfs.xmcdn.com/group29/M06/C5/33/wKgJWVlfRYWxlSmYAALj03LiX8Q451_android_large.jpg";
+                roomId = 0;
+                shortTitle = "［首页付费］白鹿原";
+                type = 2;
+                uid = 63446029;
+            },
+                        {
+                activityId = 792;
+                focusCurrentId = 80925;
+                id = 17641;
+                isShare = 1;
+                "is_External_url" = 0;
+                longTitle = "四月间事-广播剧配音比赛";
+                pic = "http://fdfs.xmcdn.com/group28/M09/48/BF/wKgJSFlDfnyDwhCCAAdBbMSKCjo896_android_large.jpg";
+                roomId = 0;
+                shortTitle = "四月间事-广播剧配音比赛";
+                type = 8;
+                url = "http://activity.ximalaya.com/activity-web/activity/792?app=iting";
+            },
+                        {
+                albumId = 3416829;
+                focusCurrentId = 83938;
+                id = 16804;
+                isShare = 1;
+                "is_External_url" = 0;
+                longTitle = "【首页】赘婿（长效图-有声书）";
+                pic = "http://fdfs.xmcdn.com/group29/M0A/4E/D8/wKgJXVkesG7B43IkAAHamJbCgBQ527_android_large.jpg";
+                roomId = 0;
+                shortTitle = "【首页】赘婿（长效图-有声书）";
+                type = 2;
+                uid = 12648317;
+            },
+                        {
+                focusCurrentId = 83974;
+                id = 18131;
+                isShare = 1;
+                "is_External_url" = 0;
+                longTitle = "②【首页】牛人牛作 28部悬疑小说 别再说你只知道东野圭吾";
+                pic = "http://fdfs.xmcdn.com/group29/M02/79/AF/wKgJWVlaFavCCfbhAARNEORUPvQ217_android_large.jpg";
+                roomId = 0;
+                shortTitle = "②【首页】牛人牛作 28部悬疑小说 别再说你只知道东野圭吾";
+                specialId = 1195;
+                subType = 1;
+                type = 9;
+            },
+                        {
+                albumId = 4332084;
+                focusCurrentId = 83946;
+                id = 10722;
+                isShare = 1;
+                "is_External_url" = 0;
+                longTitle = "贼胆（有声书-长效图）";
+                pic = "http://fdfs.xmcdn.com/group18/M02/D4/37/wKgJKlfJTbWRtxcgAAIDAbpWCkE222_android_large.jpg";
+                roomId = 0;
+                shortTitle = "贼胆（有声书-长效图）";
+                type = 2;
+                uid = 27758321;
+            },
+                        {
+                albumId = 3804139;
+                focusCurrentId = 83948;
+                id = 10424;
+                isShare = 0;
+                "is_External_url" = 0;
+                longTitle = "看不见爱情的房间（有声书-长效图）";
+                pic = "http://fdfs.xmcdn.com/group19/M05/A1/42/wKgJK1e1cdqDdhdAAAFiTiqRT8A338_android_large.jpg";
+                roomId = 0;
+                shortTitle = "看不见爱情的房间（有声书-长效图）";
+                type = 2;
+                uid = 8163465;
+            }
+        );
+        ret = 0;
+        title = "分类焦点图";
+    };
+    hasRecommendedZones = 0;
+    msg = "成功";
+    ret = 0;
+    tags =     {
+        count = 18;
+        list =         (
+                        {
+                "category_id" = 3;
+                tname = "言情";
+            },
+                        {
+                "category_id" = 3;
+                tname = "悬疑";
+            },
+                        {
+                "category_id" = 3;
+                tname = "都市";
+            },
+                        {
+                "category_id" = 3;
+                tname = "幻想";
+            },
+                        {
+                "category_id" = 3;
+                tname = "武侠";
+            },
+                        {
+                "category_id" = 3;
+                tname = "历史";
+            },
+                        {
+                "category_id" = 3;
+                tname = "官场商战";
+            },
+                        {
+                "category_id" = 3;
+                tname = "推理";
+            },
+                        {
+                "category_id" = 3;
+                tname = "女生最爱";
+            },
+                        {
+                "category_id" = 3;
+                tname = "男生最爱";
+            },
+                        {
+                "category_id" = 3;
+                tname = "QQ阅读";
+            },
+                        {
+                "category_id" = 3;
+                tname = "读客图书";
+            },
+                        {
+                "category_id" = 3;
+                tname = "果麦文化";
+            },
+                        {
+                "category_id" = 3;
+                tname = "中信书院";
+            },
+                        {
+                "category_id" = 3;
+                tname = "博集新媒";
+            },
+                        {
+                "category_id" = 3;
+                tname = "磨铁阅读";
+            },
+                        {
+                "category_id" = 3;
+                tname = "蓝狮子";
+            },
+                        {
+                "category_id" = 3;
+                tname = "华章图书";
+            }
+        );
+        maxPageId = 1;
+        title = "更多分类";
+    };
 }
