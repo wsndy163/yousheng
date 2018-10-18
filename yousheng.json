@@ -766,16 +766,16 @@
 	"focusImages": {
 		"ret": 0,
 		"list": [{
-			"id": 18250,
-			"shortTitle": "［首页付费］白鹿原",
-			"longTitle": "［首页付费］白鹿原",
-			"pic": "http://fdfs.xmcdn.com/group29/M06/C5/33/wKgJWVlfRYWxlSmYAALj03LiX8Q451_android_large.jpg",
+			"id": 14856,
+			"shortTitle": "沧海（有声书-频道内）",
+			"longTitle": "沧海（有声书-频道内）",
+			"pic": "http://fdfs.xmcdn.com/group23/M01/C8/9B/wKgJNFi2WizSkL3oAALkGL2P_Qw989_android_large.jpg",
 			"type": 2,
-			"uid": 63446029,
-			"albumId": 8677450,
+			"uid": 2342717,
+			"albumId": 5959318,
 			"isShare": true,
 			"is_External_url": false,
-			"focusCurrentId": 86342,
+			"focusCurrentId": 85132,
 			"roomId": 0
 		}, {
 			"id": 17641,
