@@ -4,8 +4,8 @@
 	"payOK": "确定订阅",
 	"payCancel": "取消",
 	"schemeUrl": [
-		"https://raw.githubusercontent.com/wsndy163/yousheng/master/会员连续订购服务协议.htm",
-		"https://raw.githubusercontent.com/wsndy163/yousheng/master/隐私协议.htm"
+		"https://raw.githubusercontent.com/wsndy163/yousheng/master/%E4%BC%9A%E5%91%98%E8%BF%9E%E7%BB%AD%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1%E5%8D%8F%E8%AE%AE.htm",
+		"https://raw.githubusercontent.com/wsndy163/yousheng/master/%E9%9A%90%E7%A7%81%E5%8D%8F%E8%AE%AE.htm"
 	],
 	"tags": {
 		"maxPageId": 1,
