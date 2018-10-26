@@ -3,7 +3,7 @@
 	"payContent": "到期后自动续费，可随时取消\r\n\r\n自动续费服务声明\r\n付款：用户确认购买并付款后记入iTunes帐户；\r\n取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在itunes/Apple ID设置答案是中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用；\r\n续费：苹果iTunes帐户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。",
 	"payOK": "确定订阅",
 	"payCancel": "取消",
-	"schemeUrl": {"",""},
+	"schemeUrl": {"https://raw.githubusercontent.com/wsndy163/yousheng/master/%E4%BC%9A%E5%91%98%E8%BF%9E%E7%BB%AD%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1%E5%8D%8F%E8%AE%AE.htm","https://raw.githubusercontent.com/wsndy163/yousheng/master/%E9%9A%90%E7%A7%81%E5%8D%8F%E8%AE%AE.htm"},
 	"tags": {
 		"maxPageId": 1,
 		"title": "更多分类",
